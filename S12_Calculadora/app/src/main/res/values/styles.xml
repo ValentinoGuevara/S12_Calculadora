@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Button Style -->
+    <style name="BaseButton">
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+
+    <!-- Number Button Style -->
+    <style name="NumberButton" parent="BaseButton">
+        <item name="android:background">@drawable/number_button_background</item>
+        <item name="android:textColor">@color/number_text_color</item>
+    </style>
+
+    <!-- Function Button Style (AC, DEL, %) -->
+    <style name="FunctionButton" parent="BaseButton">
+        <item name="android:background">@drawable/function_button_background</item>
+        <item name="android:textColor">@color/function_text_color</item>
+    </style>
+
+    <!-- Operator Button Style (+, -, ×, ÷) -->
+    <style name="OperatorButton" parent="BaseButton">
+        <item name="android:background">@drawable/operator_button_background</item>
+        <item name="android:textColor">@color/operator_text_color</item>
+    </style>
+
+    <!-- Equals Button Style -->
+    <style name="EqualsButton" parent="BaseButton">
+        <item name="android:background">@drawable/equals_button_background</item>
+        <item name="android:textColor">@color/equals_text_color</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+</resources>

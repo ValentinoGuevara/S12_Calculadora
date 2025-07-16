@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoginOficial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuizzUNS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/S2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/S9_AM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/S9_SharedPreferences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SEM5_ProyectoClinicaRobles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/s10_game_vault-main" vcs="Git" />
+  </component>
+</project>
