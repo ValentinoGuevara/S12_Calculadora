@@ -154,7 +154,8 @@ Prohibido el uso comercial sin autorización expresa.
 <div align="center">
   <img src="screenshots3/app_demo.gif" width="300" alt="Demo Calculadora">
   <p>¡Explora el código y contribuye!</p>
-  <a href="https://github.com/ValentinoGuevara/S12_Calculadora_ViewModel">
-    <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github">
-  </a>
+<a href="https://github.com/ValentinoGuevara/S13_AM.git">
+  <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github">
+</a>
+
 </div>
